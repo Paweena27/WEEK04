@@ -7,9 +7,8 @@ namespace lab4
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("This is text 1.");
-            Console.WriteLine("This is text 2.");
-            Console.WriteLine("This is text 3.");
+            Console.WriteLine(" {0} and {1}", 3, 6);
+
         }
     }
 }
