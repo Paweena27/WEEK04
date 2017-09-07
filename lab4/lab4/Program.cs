@@ -15,7 +15,6 @@ namespace lab4
             Console.WriteLine("{0, 0:P}", n);
             Console.WriteLine("{0, 0:X}", n);
             Console.ReadKey();
-
         }
     }
 }
