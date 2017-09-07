@@ -8,6 +8,7 @@ namespace lab4
         static void Main(string[] args)
         {
             Console.Write("Hello");
+            Console.Write("Hello");
         }
     }
 }
